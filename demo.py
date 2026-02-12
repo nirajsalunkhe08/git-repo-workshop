@@ -1,5 +1,7 @@
 def onelove():
-
+    """
+    Docstring for onelove
+    """
     pls = "Hello and Welcome to the LOS POLOS"
     return pls
 
