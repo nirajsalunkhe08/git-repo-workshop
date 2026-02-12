@@ -1,9 +1,6 @@
 def onelove():
-    a=4
-    b=5
+    password = test@123
+    return password
+    
 
-    return f
 onelove()
-
-true()
-print(errt)
