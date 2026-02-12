@@ -1,3 +1,4 @@
+"""This module contains a simple onelove function example."""
 def onelove():
     """
     Docstring for onelove
